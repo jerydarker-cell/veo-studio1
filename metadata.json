@@ -1,0 +1,8 @@
+{
+  "name": "tiktok studio123",
+  "description": "A comprehensive AI creation suite featuring realistic human-motion video generation with Veo, high-fidelity image synthesis, real-time voice conversations, and advanced multimodal analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
